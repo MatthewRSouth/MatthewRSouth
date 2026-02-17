@@ -1,5 +1,21 @@
-# 💫 About Me:
-I'm a developer passionate about creating systems that solve real-world problems. Currently building web applications for educational operations while seeking frontend developer opportunities.<br><br>🎯 Job Seeking Status<br><br>Actively seeking frontend developer positions beginning in August 2026.<br><br>    🌍 I'm based in Osaka, Japan<br>    ✉️ You can contact me at mattsouthjobs@gmail.com<br>    🚀 I'm currently working on Hoshida Dispatch Contract Application<br>    🧠 I'm currently learning React<br>    👥 I'm looking to collaborate on projects that help enrich others lives or educational projects<br>
+# 💫 About Me
+
+I'm a self-taught developer and educator based in Osaka, Japan, transitioning into frontend development after spending years building the internal tools that run my school.
+
+What started as solving everyday problems — automating attendance, tracking student health data, digitizing paperwork — turned into a full suite of web applications and integrations that the school now depends on daily. That hands-on experience building real systems for real users is what drives me as a developer.
+
+**What I've shipped:**
+- A bilingual student enrollment app (React, Vite, Google Sheets/Drive API, Vercel)
+- A company sign-in system built on Google Cloud
+- Automated nap time, weight, and height tracking with live graphs
+- Automated daily inspection journals
+- A public-facing landing page with QR-based trial sign-up flow
+
+I build with React and JavaScript, and I'm focused on frontend and React developer roles where I can keep solving problems that matter.
+
+🎯 **Available from August 2026**
+📍 Osaka, Japan
+✉️ mattsouthjobs@gmail.com
 
 
 ## 🌐 Socials:
