@@ -2,7 +2,7 @@
 
 I'm a self-taught developer and educator based in Osaka, Japan, transitioning into frontend development after spending years building the internal tools that run my school.
 
-What started as solving everyday problems — automating attendance, tracking student health data, digitizing paperwork — turned into a full suite of web applications and integrations that the school now depends on daily. That hands-on experience building real systems for real users is what drives me as a developer.
+What started as solving everyday problems, such as automating attendance, tracking student health data, digitizing paperwork,turned into a full suite of web applications and integrations that the school now depends on daily. That hands-on experience building real systems for real users is what drives me as a developer.
 
 **What I've shipped:**
 - A bilingual student enrollment app (React, Vite, Google Sheets/Drive API, Vercel)
@@ -18,7 +18,7 @@ I build with React and JavaScript, and I'm focused on frontend and React develop
 
 🎯 **Available from August 2026** </br>
 📍 Osaka, Japan</br>
-✉️ mattsouthjobs@gmail.com
+✉️ matthewsouthjobs@gmail.com
 
 
 ## 🌐 Socials:
