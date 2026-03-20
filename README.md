@@ -14,7 +14,7 @@ What started as solving everyday problems, such as automating attendance, tracki
 I build with React and JavaScript, and I'm focused on frontend and React developer roles where I can keep solving problems that matter.
 
 **Currently Learning**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Next.js](https://img.shields.io)
 
 🎯 **Available from August 2026** </br>
 📍 Osaka, Japan</br>
