@@ -14,7 +14,7 @@ What started as solving everyday problems, such as automating attendance, tracki
 I build with React and JavaScript, and I'm focused on frontend and React developer roles where I can keep solving problems that matter.
 
 **Currently Learning**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 🎯 **Available from August 2026** </br>
 📍 Osaka, Japan</br>
@@ -30,6 +30,5 @@ I build with React and JavaScript, and I'm focused on frontend and React develop
 ![](https://github-readme-stats.vercel.app/api?username=MatthewRSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MatthewRSouth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewRSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 
