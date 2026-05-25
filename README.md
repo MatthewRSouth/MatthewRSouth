@@ -10,6 +10,7 @@ What started as solving everyday problems, such as automating attendance, tracki
 - Automated nap time, weight, and height tracking with live graphs
 - Automated daily inspection journals
 - A public-facing landing page with QR-based trial sign-up flow
+- Multiple websites with my company FireDev
 
 I build with React and JavaScript, and I'm focused on frontend and React developer roles where I can keep solving problems that matter.
 
