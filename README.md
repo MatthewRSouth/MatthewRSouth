@@ -1,18 +1,37 @@
-# 💫 About Me
+💫 About Me
 
-I'm a self-taught developer and educator based in Osaka, Japan, transitioning into frontend development after spending years building the internal tools that run my school.
+Frontend developer and educator based in Osaka, Japan, transitioning into 
+full-time engineering. I learned by building real systems at my school — 
+solving operational problems for real users with shipped code.
 
-What started as solving everyday problems, such as automating attendance, tracking student health data, digitizing paperwork,turned into a full suite of web applications and integrations that the school now depends on daily. That hands-on experience building real systems for real users is what drives me as a developer.
+Quantified impact:
+- ~¥30,000/month saved in software subscription costs through internal automation
+- ~60 hours per teacher per cycle in manual reporting work, being eliminated by my current project
 
-**What I've shipped:**
-- A bilingual student enrollment app (React, Vite, Google Sheets/Drive API, Vercel)
-- A company sign-in system built on Google Cloud
-- Automated nap time, weight, and height tracking with live graphs
+**React / frontend engineering:**
+- **Anichive** — anime search and discovery app (React, Vite, Jikan API, Vercel)
+- **Hoshida Dispatch** — parent application form (React + Google Sheets/OAuth backend)
+- **Bilingual student enrollment app** — React, Vite, Google Sheets/Drive API
+- **Kindergarten progress tracker** — in development, used by teachers for parent interviews
+
+**Vanilla web:**
+- **Public landing page** with QR-based trial signup — used on company flyers
+
+**Business automation (Google Forms + Apps Script):**
+- Company sign-in system on Google Cloud
+- Automated nap/weight/height tracking with live graphs
 - Automated daily inspection journals
-- A public-facing landing page with QR-based trial sign-up flow
-- Multiple websites with my company FireDev
 
-I build with React and JavaScript, and I'm focused on frontend and React developer roles where I can keep solving problems that matter.
+🔗 Live demo: anichive.vercel.app
+
+
+I also have production experience with AI-assisted development (Claude Code) 
+on client websites and internal tools — happy to discuss how I direct AI tools 
+versus hand-code in interview.
+
+Currently building toward frontend engineering roles in late 2026 / 
+early 2027 — targeting in-house product companies in Kansai or 
+remote-friendly teams.
 
 **Currently Learning**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
