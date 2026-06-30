@@ -40,6 +40,42 @@ remote-friendly teams.
 
 ✉️ matthewsouthjobs@gmail.com
 
+💫 自己紹介
+
+大阪在住のフロントエンド開発者・教育者です。現職の幼稚園で教員として働きながら、
+学校の業務課題を解決するためにシステムを構築してきました。実際のユーザーに使われる
+コードを書く中で、フロントエンドエンジニアへの転向を目指しています。
+
+**実績(数値):**
+- 内部業務の自動化により、ソフトウェア利用料を月額約¥30,000削減
+- 保護者面談の準備時間(現状:教員一人あたり約60時間/期)を、現在開発中のシステムで大幅短縮予定
+
+**React / フロントエンド開発:**
+- **Anichive** — アニメ検索・データベースアプリ(React, Vite, Jikan API, Vercel)
+- **星田ディスパッチ** — 保護者用申込フォーム(React + Google Sheets/OAuth)
+- **多言語対応の入園申込アプリ** — React, Vite, Google Sheets/Drive API
+- **幼稚園進捗トラッカー** — 開発中、保護者面談での活用予定
+
+**バニラWeb開発:**
+- **公開ランディングページ** — QRコードによる体験申込フロー(チラシ掲載用)
+
+**業務自動化(Google Forms + Apps Script):**
+- 社内サインインシステム(Google Cloud)
+- 園児の昼寝・体重・身長記録の自動化(リアルタイムグラフ表示)
+- 日々の点検記録の自動化
+
+🔗 デモ: anichive.vercel.app
+
+
+
+クライアントサイトや一部の社内ツールではAIアシスト開発(Claude Code)も活用しています。
+プロジェクトごとの担当範囲については、面談時に詳しくお話しできます。
+
+2026年末〜2027年初頭にフロントエンドエンジニアとしての応募を予定しています。
+関西の自社プロダクト企業、またはリモート可能なチームを希望しています。
+
+✉️ matthewsouthjobs@gmail.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Self_MadeEngineer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrsalt) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SelfMadeEngineer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SelfMadeEngineer-u8d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mattsouthjobs@gmail.com) 
