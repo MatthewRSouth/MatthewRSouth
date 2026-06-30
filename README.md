@@ -29,15 +29,15 @@ I also have production experience with AI-assisted development (Claude Code)
 on client websites and internal tools — happy to discuss how I direct AI tools 
 versus hand-code in interview.
 
-Currently building toward frontend engineering roles in late 2026 / 
-early 2027 — targeting in-house product companies in Kansai or 
-remote-friendly teams.
+
 
 **Currently Learning**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-🎯 **Available from August 2026** </br>
-📍 Osaka, Japan</br>
+Currently building toward frontend engineering roles in late 2026 / 
+early 2027 — targeting in-house product companies in Kansai or 
+remote-friendly teams.
+
 ✉️ matthewsouthjobs@gmail.com
 
 
